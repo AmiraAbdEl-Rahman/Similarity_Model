@@ -20,8 +20,9 @@ You can install the required libraries using pip:
 ```bash
 pip install PyPDF2 scikit-learn
 
------------------------------------------------------------------
-Usage:
+```
+====================================================================
+## Usage
 Run the script.
 When prompted, enter the full path of the PDF file you want to analyze.
 The script will process the input PDF and compare it with the text files in the specified folder, printing the similarity scores.
