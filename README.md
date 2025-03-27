@@ -19,9 +19,8 @@ You can install the required libraries using pip:
 
 ```bash
 pip install PyPDF2 scikit-learn
-
 ```
-====================================================================
+===================================================================
 ## Usage
 Run the script.
 When prompted, enter the full path of the PDF file you want to analyze.
